@@ -1,3 +1,5 @@
+# CAA_Helper
+
 This is a simple single-page JavaScript application to help
 people generate a CAA policy.  It's available online at
 <https://sslmate.com/caa>.
@@ -7,7 +9,7 @@ open an issue at <https://github.com/SSLMate/caa_helper/issues> or email
 sslmate@sslmate.com.
 
 
-LIMITATIONS
+## Limitations
 
   * Does not support parameters to issue and issuewild.
   * Does not support multiple iodef properties.
@@ -17,8 +19,8 @@ LIMITATIONS
     certs, but only some/no CAs to issue wildcard certs."
 
 
-LEGALESE
+## LEGALESE
 
 Copyright (C) 2016-2018 Opsmate, Inc.
 
-Licensed under the MPL v2.0.  See LICENSE for details.
+Licensed under the MPL v2.0. See LICENSE for details.
